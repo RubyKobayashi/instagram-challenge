@@ -1,6 +1,8 @@
 require 'simplecov'
 require 'active_record'
 
+SimpleCov.start 'rails'
+
 SimpleCov.start do
   add_filter "/config/"
   add_filter "/app/helpers/application_helper.rb"
