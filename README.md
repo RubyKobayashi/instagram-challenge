@@ -2,6 +2,10 @@ Instagram Challenge
 ===================
 [![Build Status](https://travis-ci.com/RubyKobayashi/instagram-challenge.svg?branch=master)](https://travis-ci.com/RubyKobayashi/instagram-challenge)
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/748e196a1978929a7f34/maintainability)](https://codeclimate.com/github/RubyKobayashi/instagram-challenge/maintainability)
+
+[![Test Coverage](https://api.codeclimate.com/v1/badges/748e196a1978929a7f34/test_coverage)](https://codeclimate.com/github/RubyKobayashi/instagram-challenge/test_coverage)
+
 ## Instructions
 
 * Challenge time: one weekend

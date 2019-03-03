@@ -46,7 +46,7 @@ Metrics/BlockLength:
   Exclude:
     - 'spec/**/*'
     - 'test/**/*'
-    - 'config/**/*'
+    # - 'config/**/*'
 
 
 
